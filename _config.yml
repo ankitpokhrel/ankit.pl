@@ -1,0 +1,19 @@
+# Site settings
+title: Ankit Pokhrel &raquo; Student | Web Developer | Freelancer
+description: Passionate web developer with 5+ years experience in PHP and related technologies. My software development experience includes web apps, database work, and popular WordPress plugins.
+url: "https://ankit.pl"
+
+# User settings
+username: Ankit Pokhrel
+name: ankit.pl
+user_description: Passionate web developer with 5+ years experience in PHP and related technologies. My software development experience includes web apps, database work, and popular WordPress plugins. I am from Nepal, currently living and working in Bangkok, Thailand.
+user_title: Software Developer
+email: hello@ankit.pl
+github: https://github.com/ankitpokhrel
+linkedin: https://www.linkedin.com/in/ankitpokhrel/
+twitter: https://twitter.com/ankitpokhrel
+medium: https://medium.com/@ankitpokhrel
+wordpress: https://profiles.wordpress.org/ankitpokhrel
+stackoverflow: https://stackoverflow.com/users/2607359/konsole
+
+exclude: ['package.json', 'src' , 'node_modules', '.idea']
