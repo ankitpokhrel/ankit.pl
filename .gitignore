@@ -3,3 +3,4 @@ _site
 .jekyll-cache
 node_modules
 .DS_STORE
+npm-debug.log
