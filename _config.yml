@@ -1,12 +1,12 @@
 # Site settings
-title: Ankit Pokhrel &raquo; Student | Web Developer | Freelancer
-description: Passionate web developer with 5+ years experience in PHP, GO and related technologies. My software development experience includes web apps, database work, and some popular PHP packages and WordPress plugins.
+title: Ankit Pokhrel &raquo; I build things
+description: Passionate developer with 7+ years experience in PHP, GO and related technologies. My software development experience includes web apps, database work, and some popular Go tools, PHP packages, and WordPress plugins.
 url: "https://ankit.pl"
 
 # User settings
 username: Ankit Pokhrel
 name: ankit.pl
-user_description: Passionate web developer with 5+ years experience in PHP, GO and related technologies. My software development experience includes web apps, database work, and some popular PHP packages and WordPress plugins. I am from Nepal, lived and worked in Bangkok (Thailand) for 3 years, recently moved to Berlin, Germany.
+user_description: Passionate developer with 7+ years experience in PHP, GO and related technologies. My software development experience includes web apps, database work, and some popular Go tools, PHP packages, and WordPress plugins. I am from Nepal, lived and worked in Bangkok (Thailand) for 3 years, recently moved to Berlin, Germany.
 user_title: Software Developer
 email: hello@ankit.pl
 github: https://github.com/ankitpokhrel
