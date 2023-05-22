@@ -9,7 +9,7 @@
   "author": "Ankit Pokhrel",
   "license": "ISC",
   "dependencies": {
-    "browser-sync": "^2.29.1",
+    "browser-sync": "^2.29.3",
     "gulp": "^4.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-csso": "^4.0.1",
