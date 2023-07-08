@@ -1,17 +1,17 @@
 # Site settings
-title: Ankit Pokhrel &raquo; I've no idea what I do
-description: Passionate developer with 7+ years experience in PHP, GO and related technologies. My software development experience includes web apps, database work, and some popular Go tools, PHP packages, and WordPress plugins.
+title: Ankit P. &raquo; I've no idea what I do
+description: Yet another software developer.
 url: "https://ankit.pl"
 
 # User settings
-username: Ankit Pokhrel
+username: Ankit P.
 name: ankit.pl
 user_description: Passionate developer with 7+ years experience in PHP, GO and related technologies. My software development experience includes web apps, database work, and some popular Go tools, PHP packages, and WordPress plugins. I am from Nepal, lived and worked in Bangkok (Thailand) for 3 years, recently moved to Berlin, Germany.
 user_title: Software Developer
 email: hello@ankit.pl
 github: https://github.com/ankitpokhrel
 linkedin: https://www.linkedin.com/in/apkl/
-twitter: https://twitter.com/ankitpokhrel
+# twitter: https://twitter.com/ankitpokhrel
 medium: https://medium.com/@ankitpokhrel
 wordpress: https://profiles.wordpress.org/ankitpokhrel
 stackoverflow: https://stackoverflow.com/users/2607359/konsole
